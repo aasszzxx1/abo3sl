@@ -9,7 +9,7 @@ from jepthon import jepiq
 from ..core import check_owner
 from ..Config import Config
 
-JEP_IC = "https://telegra.ph/file/a0e65961eddb4708814d1.jpg"
+JEP_IC = "https://telegra.ph/file/679768b8bad8de3138780.jpg"
 ROE = "**♰ هـذه هي قائمة اوامـر سـورس كريزون ♰**"
 
 if Config.TG_BOT_USERNAME is not None and tgbot is not None:
