@@ -65,7 +65,7 @@ R = [
     "  ⓱ **⪼**  [جيت واي 🚨](https://t.me/gamee?game=Getaway)   \n"
     "  ⓲ **⪼**  [الالـوان 🔮](https://t.me/gamee?game=ColorHit)   \n"
     "  ⓳ **⪼**  [مدفع الكرات🏮](https://t.me/gamee?game=NeonBlaster)   \n"
-    "**-** مطور السورس **⪼ [𐇮 𓂐 𓆩الــسيد𓆪 𖠛🇷🇺 ](t.me/lMl10l)   \n"
+    "**-** مطور السورس **⪼ [𐇮مجتبى ](t.me/M_X_FF)   \n"
     "**-** قناة السورس **⪼ [𐇮 كريزون العربي ](t.me/Krize_One1)   "
 ]
 
